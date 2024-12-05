@@ -1,0 +1,4 @@
+steps\LoginDemoSteps.class
+steps\CartSteps.class
+runner\TestRunner.class
+steps\RegisterSteps.class
