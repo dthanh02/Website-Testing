@@ -1,22 +1,22 @@
-**Web Testing using Cucumber** 
-Set up Maven Project with Cucumber and Selenium WebDriver
-**Step 1.Create Maven Project: Create a new Maven project and add dependencies to pom.xml:**
+**Web Testing using Cucumber**  
+Set up Maven Project with Cucumber and Selenium WebDriver  
+**Step 1. Create Maven Project: Create a new Maven project and add dependencies to pom.xml:**
 cucumber-java, cucumber-junit, selenium-java, junit.
-**Step 2.Create Feature File:**
+**Step 2. Create Feature File:**
 Create a folder src/test/resources/features.
 Create a .feature file with test scenarios.
-**Step 3.Install Cucumber Plugin: Install Cucumber plugin in Eclipse from the Marketplace.**
-**Step 4.Create Step Definitions:**
+**Step 3. Install Cucumber Plugin: Install Cucumber plugin in Eclipse from the Marketplace.**
+**Step 4. Create Step Definitions:**
 Create a Java class to map steps from the feature file.
-**Step 5.Create Runner Class:**
+**Step 5. Create Runner Class:**
 Create a Runner class to run the Cucumber tests.
 **Step 6.Run Tests: Run from IDE or using Maven: mvn test**
 **Step 7.Parameterization (Scenario Outline):**
 Use Scenario Outline and Examples for data-driven testing.
-**Step 8.Page Object Model (POM):**
+**Step 8. Page Object Model (POM):**
 Create Page Object classes to manage web elements with Selenium WebDriver.
-**Step 9.Cucumber Reporting:**
-Add reporting plugin to pom.xml and configure it to generate HTML reports.
+**Step 9. Cucumber Reporting:**
+Add a reporting plugin to pom.xml and configure it to generate HTML reports.
 
 **Here is some picture from the report file:**
 ![image](https://github.com/user-attachments/assets/0e416620-2e22-4b78-842d-5aaf47502e90)
