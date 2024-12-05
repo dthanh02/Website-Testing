@@ -1,6 +1,7 @@
-## **Web Testing using Cucumber**  
-Cucumber supports the Behavior-Driven Development (BDD) methodology, which allows test cases to be described using Gherkin syntax  
-Set up Maven Project with Cucumber and Selenium WebDriver  
+### **Web Testing using Cucumber**  
+Cucumber supports the Behavior-Driven Development (BDD) methodology, which allows test cases to be described using Gherkin syntax.  
+
+# Set up Maven Project with Cucumber and Selenium WebDriver  
 **Step 1. Create Maven Project: Create a new Maven project and add dependencies to pom.xml:**  
 cucumber-java, cucumber-junit, selenium-java, junit.  
 **Step 2. Create Feature File:**  
